@@ -42,4 +42,10 @@ git常用指令 <br>
 * git log --(graph 圖像化/ pretty==oneline 單行呈現節點/ abbre-commit 縮短節電的待禡字元)：查詢版本提交紀錄
 
 ## resource
-* picture: https://medium.com/@talgoldfus/better-understanding-gits-work-flow-in-order-to-properly-deal-with-merge-conflicts-part-i-760a366fc997
+圖片
+* https://medium.com/@talgoldfus/better-understanding-gits-work-flow-in-order-to-properly-deal-with-merge-conflicts-part-i-760a366fc997
+### reference
+英文
+* https://medium.com/@talgoldfus/better-understanding-gits-work-flow-in-order-to-properly-deal-with-merge-conflicts-part-i-760a366fc997
+中文
+* https://weilihmen.medium.com/git-%E5%9F%BA%E6%9C%AC%E7%9F%A5%E8%AD%98-from-alpha-camp-5c9ef85cf825
